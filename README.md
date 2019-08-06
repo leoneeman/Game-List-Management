@@ -10,5 +10,5 @@ Add new game to list, in list you can modlfy anything.
 In toolbar chose "save" or "save as" can output excel file.
 
 Programming message
-@ Python 3.5
-@ QT5 design UI
+*Python 3.5
+*QT5 design UI
