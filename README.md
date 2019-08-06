@@ -9,4 +9,4 @@ It is easy management owns game
 Add new game to list, in list you can modlfy anything.
 In toolbar chose "save" or "save as" can output excel file.
 
-# python code use QT5 deign ui
+ python code use QT5 deign ui
