@@ -1,8 +1,8 @@
 # Game List Management
 It is easy management owns game
 
-1.Input game name\n
-2.chose platform(ps4,steam,ns)\n
+"1.Input game name\n"
+"2.chose platform(ps4,steam,ns)\n"
 3.chose status(action,idle,end)\n
 4.chose type(disk,digits)\n
 
